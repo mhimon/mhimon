@@ -11,6 +11,7 @@
 
 [<img align="left" alt="ultraDevs.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mhimon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mhimon | WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 [<img align="left" alt="mhimon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mhimon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mhimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -56,6 +57,7 @@
 
 [website]: https://ultraDevs.com
 [facebook]: https://web.facebook.com/mhimon.74
+[wordpress]: https://profiles.wordpress.org/mhimon/#content-plugins
 [twitter]: https://twitter.com/mh_imon
 [youtube]: https://www.youtube.com/channel/UCsQ8v18OXzKjf7BDXid2BAw?view_as=subscriber
 [instagram]: https://www.instagram.com/mhimon.74
