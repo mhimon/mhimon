@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mhimon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mhimon&show_icons=true&hide_border=true" />
+  <img align="left" alt="mhimon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mhimon&theme=midnight-purple&show_icons=true" />
 
 </details>
 
