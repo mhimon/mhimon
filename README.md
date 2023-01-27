@@ -44,8 +44,29 @@
 
 <br />
 <br />
+### GitHub Stats
+<p align="left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhimon&show_icons=true&theme=github" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhimon&theme=github" />
+</p>
 
-<img align="left" alt="mhimon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mhimon&theme=midnight-purple&show_icons=true" />
+### Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhimon&theme=github"/>
+</p>
+
+### Top Languages
+<p align="center">
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhimon&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhimon&theme=github" />
+</p>
+
+### Top Commits
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhimon&theme=github&utcOffset=8" />
+</p>
+
+<!-- <img align="left" alt="mhimon's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhimon&show_icons=true&hide_border=true" /> -->
 
 [website]: https://ultraDevs.com
 [facebook]: https://web.facebook.com/mhimon.74
